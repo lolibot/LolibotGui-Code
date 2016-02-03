@@ -1,0 +1,15 @@
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\VoliBot.AccountManager.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\VoliBot.AccountManager_ADD.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\VoliBot.AccountManager_TEST.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\LoliBot.Properties.Resources.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\VoliBot.vClient.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\VoliBot.VoliBot.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\VoliBot.WelcomeWindow.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\Lolibot.csproj.GenerateResource.Cache
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Debug\LoliBot.exe.config
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Debug\LoliBot.exe
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Debug\LoliBot.pdb
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\LoliBot.exe
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\LoliBot.pdb

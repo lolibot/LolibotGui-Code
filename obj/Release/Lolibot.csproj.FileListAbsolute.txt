@@ -1,0 +1,16 @@
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Release\LoliBot.exe.config
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Release\LoliBot.exe
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Release\LoliBot.pdb
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\VoliBot.AccountManager.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\VoliBot.AccountManager_ADD.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\VoliBot.AccountManager_TEST.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\LoliBot.Properties.Resources.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\VoliBot.vClient.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\VoliBot.VoliBot.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\VoliBot.WelcomeWindow.resources
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\Lolibot.csproj.GenerateResource.Cache
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\LoliBot.exe
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\LoliBot.pdb
+C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Release\LoliBot.csprojResolveAssemblyReference.cache
