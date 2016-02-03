@@ -13,3 +13,6 @@ C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\b
 C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\LoliBot.exe
 C:\Users\Quentin Laffont\Downloads\VoliBotGUI-master\VoliBotGUI-master\VoliBot\obj\Debug\LoliBot.pdb
+C:\Users\Quentin Laffont\Desktop\Nouveau dossier\LolibotGui-Code\bin\Debug\LoliBot.exe.config
+C:\Users\Quentin Laffont\Desktop\Nouveau dossier\LolibotGui-Code\obj\Debug\LoliBot.exe
+C:\Users\Quentin Laffont\Desktop\Nouveau dossier\LolibotGui-Code\obj\Debug\LoliBot.pdb
